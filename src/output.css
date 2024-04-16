@@ -575,6 +575,10 @@ video {
   margin-left: 1rem;
 }
 
+.ml-56 {
+  margin-left: 14rem;
+}
+
 .ml-72 {
   margin-left: 18rem;
 }
@@ -609,10 +613,6 @@ video {
 
 .mt-8 {
   margin-top: 2rem;
-}
-
-.ml-56 {
-  margin-left: 14rem;
 }
 
 .inline-block {
@@ -651,8 +651,8 @@ video {
   height: 4rem;
 }
 
-.h-20 {
-  height: 5rem;
+.h-28 {
+  height: 7rem;
 }
 
 .h-6 {
@@ -661,18 +661,6 @@ video {
 
 .h-8 {
   height: 2rem;
-}
-
-.h-28 {
-  height: 7rem;
-}
-
-.h-7 {
-  height: 1.75rem;
-}
-
-.h-9 {
-  height: 2.25rem;
 }
 
 .min-h-40 {
@@ -783,14 +771,6 @@ video {
   row-gap: 1.5rem;
 }
 
-.gap-y-2 {
-  row-gap: 0.5rem;
-}
-
-.gap-y-1 {
-  row-gap: 0.25rem;
-}
-
 .justify-self-start {
   justify-self: start;
 }
@@ -809,11 +789,6 @@ video {
 
 .rounded-xl {
   border-radius: 0.75rem;
-}
-
-.bg-purple-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(216 180 254 / var(--tw-bg-opacity));
 }
 
 .p-3 {
@@ -844,6 +819,10 @@ video {
 
 .align-middle {
   vertical-align: middle;
+}
+
+.font-myFont {
+  font-family: Switzer;
 }
 
 .text-4xl {
@@ -906,11 +885,6 @@ video {
 .hover\:rotate-6:hover {
   --tw-rotate: 6deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-}
-
-.hover\:bg-blue-100:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(219 234 254 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-blue-50:hover {
