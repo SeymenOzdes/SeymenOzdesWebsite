@@ -4,6 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: { myFont: "Switzer" },
+      margin: {
+        custom: "436px",
+      },
     },
   },
   plugins: [],
